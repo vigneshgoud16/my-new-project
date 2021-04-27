@@ -1,5 +1,7 @@
 # Panting with AI
 
+# Project Title
+
 Final project for the Building AI course
 
 ## Summary
